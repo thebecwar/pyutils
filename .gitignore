@@ -1,0 +1,6 @@
+Debug
+.vs
+ipch
+x64
+
+*.user
